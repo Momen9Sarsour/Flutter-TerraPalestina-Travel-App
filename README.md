@@ -83,7 +83,7 @@ Here are some screenshots to showcase the app’s interface:
 - 📸 **App Screenshot**:
   ![App Screenshot](assets/ramallah.jpg)
   ---
-  (assets/gabalgrezem.jpg)
+   ![App Screenshot](assets/gabalgrezem.jpg)
 
 ## **Live Demo**
 
