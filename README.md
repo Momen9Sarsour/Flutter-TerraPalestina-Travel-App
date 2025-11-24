@@ -81,9 +81,9 @@ If you want to customize the app, here are some options you can tweak:
 Here are some screenshots to showcase the app’s interface:
 
 - 📸 **App Screenshot**:
+  
   ![App Screenshot](assets/ramallah.jpg)
-  ---
-   ![App Screenshot](assets/gabalgrezem.jpg)
+  ![App Screenshot](assets/gabalgrezem.jpg)
 
 ## **Live Demo**
 
